@@ -70,9 +70,9 @@ Sonic-Cipher-4.0/
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**[Shourya Sinha]**
 1st Year B.Tech | Semester 2
-[Your Institution Name]
+[Bennett University]
 
 ---
 
